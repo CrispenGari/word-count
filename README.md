@@ -1,6 +1,6 @@
-## What is this
+## What is this?
 
-# word-count
+# crisp-word-count
 
 This is a simple module that performs the following tasks
 
@@ -13,13 +13,13 @@ This is a simple module that performs the following tasks
 ## Installation
 
 ```sh
-$ npm install word-count --save-dev
+$ npm install crisp-word-count --save-dev
 ```
 
 ## Usage
 
 ```
-import WordCount from 'word-count';
+import WordCount from 'crisp-word-count';
 ```
 
 ## Simple Example
