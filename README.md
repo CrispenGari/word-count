@@ -4,11 +4,11 @@
 
 This is a simple module that performs the following tasks
 
-word count
-space count
-character count
-character excluding spaces count
-space count
+- word count
+- space count
+- character count
+- character excluding spaces count
+- space count
 
 ## Installation
 
